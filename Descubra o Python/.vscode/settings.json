@@ -3,6 +3,7 @@
         "argumentos",
         "Arquivo",
         "básica",
+<<<<<<< HEAD
         "condicionais",
         "Condicionais",
         "cubo",
@@ -13,6 +14,13 @@
         "função",
         "funções",
         "menor",
+=======
+        "cubo",
+        "definindo",
+        "exemplos",
+        "função",
+        "funções",
+>>>>>>> e1bd1d3a984e718162d5f957b989b9d9b98ae21b
         "recebe",
         "retorna"
     ]

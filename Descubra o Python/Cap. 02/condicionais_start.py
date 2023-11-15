@@ -1,17 +1,12 @@
-#
-# Arquivo de exemplo das estruturas condicionais
-#
+
 def Condicionais():
-    x, y = 100, 100
-    
-    if(x<y):
-        print("X é menor que Y")
-    elif(x == y):
-        print("X é igual a Y")
+    x, y = 1000, 1000
+
+    if(x < y):
+        print("x é menor do que y")
+    elif (x == y):
+        print ("x é igual a y")
     else:
-        print("X é maior que Y")
+        print("x é maior do que y")
 
 Condicionais()
-
-
-    
